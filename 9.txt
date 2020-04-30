@@ -1,0 +1,1 @@
+O(1) because no matter how big the input array is, it's always have the same time complexity.

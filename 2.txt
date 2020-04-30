@@ -1,0 +1,1 @@
+O(1) because no matter how big the value is, it should aleways take the same time.

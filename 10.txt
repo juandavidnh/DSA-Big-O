@@ -1,0 +1,2 @@
+It returns true if a number is prime. It's O(n) because the loop runs once for every item in
+the array.

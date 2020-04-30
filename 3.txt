@@ -1,0 +1,2 @@
+O(n^k) because it has 1 nested loop for a child array that'd fully run for each value of 
+the parent array until a match is found. Therefore it'd run n^arr2.length times.

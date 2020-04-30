@@ -1,0 +1,2 @@
+O(n) because it has to go through every item in the array. Therefore, its time complexity grows
+linearly depending on the amount of inputs in the array.

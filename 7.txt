@@ -1,0 +1,2 @@
+It returns a fibonacci sequence and has O(n) complexity since the loop runs once for every +1
+increase in the input.

@@ -1,0 +1,2 @@
+O(n) because it applies the same simple operation to every value in the array. Therefore it's
+time complexity will be directly proportional to the amount of inputs.
