@@ -1,1 +1,1 @@
-1-7 are O(n)
+1-7 are O(n), 10 is o(n*n!)
